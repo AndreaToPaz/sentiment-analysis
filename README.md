@@ -1,2 +1,2 @@
 # sentiment-analysis
-sentiment analysis with pyhton using TensorFlow and CleanText
+ Tutorial of sentiment analysis with phyton using TensorFlow and CleanText for the EVI/CoNCISa 2022
